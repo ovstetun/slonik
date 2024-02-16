@@ -60,7 +60,7 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "slonik",
+  "name": "@nrk/slonik",
   "nyc": {
     "all": true,
     "exclude": [
